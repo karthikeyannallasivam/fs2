@@ -1,4 +1,4 @@
-FS2: Functional Streams for Scala (previously 'Scalaz-Stream')
+FS2: Functional Streams for Scala (previously 'Scalaz-Stream') - Test line added here
 =============
 
 [![Build Status](https://travis-ci.org/functional-streams-for-scala/fs2.svg?branch=series/0.9)](http://travis-ci.org/functional-streams-for-scala/fs2)
